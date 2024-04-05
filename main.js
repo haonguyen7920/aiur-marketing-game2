@@ -747,7 +747,7 @@ scene.add(flagLight);
 
 //flag
 var texture = new THREE.TextureLoader().load(
-  "https://edgy.app/wp-content/uploads/2016/10/vr-debate-e1475603418440.webp"
+  "https://raw.githubusercontent.com/haonguyen7920/aiur-marketing/main/uploads/logoLoader.png"
 );
 plane = new THREE.Mesh(
   new THREE.PlaneGeometry(600, 430, 20, 20, true),
