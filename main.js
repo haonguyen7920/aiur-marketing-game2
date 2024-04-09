@@ -747,7 +747,7 @@ scene.add(flagLight);
 
 //flag
 var texture = new THREE.TextureLoader().load(
-  "https://raw.githubusercontent.com/haonguyen7920/aiur-marketing/main/uploads/logoLoader.png"
+  "https://raw.githubusercontent.com/haonguyen7920/aiur-marketing/main/uploads/logo-color-marketing.jpg"
 );
 plane = new THREE.Mesh(
   new THREE.PlaneGeometry(600, 430, 20, 20, true),
